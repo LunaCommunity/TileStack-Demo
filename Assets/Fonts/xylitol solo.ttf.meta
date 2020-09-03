@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c9c8a3a8dafbae54a8ad518a6f031a30
+timeCreated: 1511157605
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Xylitol
+  fontNames:
+  - Xylitol
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
